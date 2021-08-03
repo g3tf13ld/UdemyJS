@@ -1,0 +1,11 @@
+I have provided you with a .js file with a story in it.
+
+I want you to do the following to the story.
+1. Find all instances of the word "cheeseburgers", and replace it with the word "hamburgers". Be sure to note the casing of the word.
+2. Find all instances of the word "bun", and capitilize all the letters.
+
+Then I want you to provide the following information using string methods.
+1. How many characters are in the story?
+2. How many words are in the story?
+
+If you are curious where the story came from, check our http://cheeseburgeripsum.com/.
